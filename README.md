@@ -83,10 +83,3 @@ To visualize only the London and New York sessions with highlighted session boxe
 ## Known Limitations
 - Charts may become cluttered with excessive detail on higher timeframes (above 30 minutes).  
 - Overlapping sessions might require additional customization to maintain clarity.  
-
----
-
-## Support
-For feature requests, updates, or troubleshooting, please contact [your email/contact].  
-
-Enjoy trading with the **Sessions Manager Indicator**! 🎯
